@@ -1,0 +1,7 @@
+{
+    "env":{
+        "PORT": "4000",
+        "MONGO_URI":"your mongo uri",
+        "SECRET": "Secret hai nhi btaunga"
+    }
+}
